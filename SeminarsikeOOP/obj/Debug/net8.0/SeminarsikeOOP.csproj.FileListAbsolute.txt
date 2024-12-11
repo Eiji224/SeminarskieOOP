@@ -1,0 +1,15 @@
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\bin\Debug\net8.0\SeminarsikeOOP.exe
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\bin\Debug\net8.0\SeminarsikeOOP.deps.json
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\bin\Debug\net8.0\SeminarsikeOOP.runtimeconfig.json
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\bin\Debug\net8.0\SeminarsikeOOP.dll
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\bin\Debug\net8.0\SeminarsikeOOP.pdb
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.AssemblyInfoInputs.cache
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.AssemblyInfo.cs
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.sourcelink.json
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.dll
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\refint\SeminarsikeOOP.dll
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.pdb
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\SeminarsikeOOP.genruntimeconfig.cache
+C:\Users\Andrey\RiderProjects\SeminarsikeOOP\SeminarsikeOOP\obj\Debug\net8.0\ref\SeminarsikeOOP.dll
